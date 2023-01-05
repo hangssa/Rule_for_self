@@ -27,7 +27,7 @@ rules:
 - DOMAIN,api.themoviedb.org,🇺🇲 美国节点 #匹配域名关键字(交由Proxy代理服务器组)
 - DOMAIN,assets.fanart.tv,🇺🇲 美国节点 #匹配域名关键字(交由Proxy代理服务器组)
 - DOMAIN-KEYWORD,themoviedb,🇺🇲 美国节点 #匹配域名关键字(交由Proxy代理服务器组)
-- DOMAIN-KEYWORD,v2ex,🇺🇲 美国节点 #匹配域名关键字(交由Proxy代理服务器组)
+- DOMAIN-KEYWORD,v2ex,♻️ 自动选择 #匹配域名关键字(交由Proxy代理服务器组)
 - DOMAIN,repo.jellyfin.org,🇺🇲 美国节点 #匹配域名关键字(交由Proxy代理服务器组)
 - DOMAIN,plugins.qbittorrent.org,🇺🇲 美国节点 #匹配域名(交由Proxy代理服务器组)
 - DOMAIN,pkgs.tailscale.com,🚀 节点选择 #匹配域名(交由Proxy代理服务器组)
