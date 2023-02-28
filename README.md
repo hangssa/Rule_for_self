@@ -1,2 +1,2 @@
 # Rule_for_self
-ACL4SSR rulu for self use。
+ACL4SSR rule for self use。
