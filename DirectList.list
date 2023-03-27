@@ -1,6 +1,6 @@
 # 内容：自定义代理列表
 # 数量：条
-# DOMAIN,thetvdb.com
+DOMAIN,controlplane.tailscale.com
 # DOMAIN,api.themoviedb.org
 # DOMAIN,assets.fanart.tv
 # DOMAIN-KEYWORD,themoviedb
