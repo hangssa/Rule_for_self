@@ -1,6 +1,7 @@
 # 内容：自定义代理列表
 # 数量：条
 DOMAIN,controlplane.tailscale.com
+PROCESS-NAME,tailscaled
 
 ##- SCRIPT,quic,REJECT #shortcuts rule
 ##- SCRIPT,time-limit,REJECT #shortcuts rule
