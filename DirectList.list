@@ -1,0 +1,9 @@
+# 内容：自定义代理列表
+# 数量：条
+# DOMAIN,thetvdb.com
+# DOMAIN,api.themoviedb.org
+# DOMAIN,assets.fanart.tv
+# DOMAIN-KEYWORD,themoviedb
+# DOMAIN-KEYWORD,v2ex
+# DOMAIN,plugins.qbittorrent.org
+# DOMAIN,pkgs.tailscale.com
