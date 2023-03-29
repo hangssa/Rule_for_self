@@ -9,6 +9,7 @@ DOMAIN,repo.jellyfin.org
 DOMAIN,op.supes.top
 DOMAIN,coinbase.com
 DOMAIN,bitnodes.io
+DOMAIN,d2l.ai
 
 ##- PROCESS-NAME,curl,DIRECT #匹配路由自身进程(curl直连)
 ##- DOMAIN-SUFFIX,google.com,Proxy #匹配域名后缀(交由Proxy代理服务器组)
