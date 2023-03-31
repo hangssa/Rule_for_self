@@ -1,7 +1,7 @@
 # 内容：自定义代理列表
 # 数量：条
 DOMAIN,controlplane.tailscale.com
-DOMAIN,zh.d2l.ai
+DOMAIN,d2l.ai
 PROCESS-NAME,tailscaled
 
 
