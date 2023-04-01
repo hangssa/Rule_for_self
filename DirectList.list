@@ -2,8 +2,9 @@
 # 数量：条
 DOMAIN,controlplane.tailscale.com
 DOMAIN,d2l.ai
-PROCESS-NAME,tailscaled
+DOMAIN,bgp.he.net/AS32590#_graph6
 
+PROCESS-NAME,tailscaled
 
 ##- SCRIPT,quic,REJECT #shortcuts rule
 ##- SCRIPT,time-limit,REJECT #shortcuts rule
