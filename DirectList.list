@@ -2,7 +2,7 @@
 # 数量：条
 DOMAIN,controlplane.tailscale.com
 DOMAIN,d2l.ai
-DOMAIN,bgp.he.net/AS32590#_graph6
+DOMAIN,bgp.he.net
 
 PROCESS-NAME,tailscaled
 
