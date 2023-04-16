@@ -3,6 +3,7 @@
 DOMAIN,controlplane.tailscale.com
 DOMAIN,d2l.ai
 DOMAIN,bgp.he.net
+DOMAIN-SUFFIX,cyp0633.icu
 
 PROCESS-NAME,tailscaled
 
