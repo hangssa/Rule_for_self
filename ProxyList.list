@@ -11,6 +11,8 @@ DOMAIN,coinbase.com
 DOMAIN,bitnodes.io
 DOMAIN,op.supes.top
 DOMAIN,docker.io
+DOMAIN,docker.com
+DOMAIN,github.com
 DOMAIN,lscr.io
 DOMAIN,ghcr.io
 
