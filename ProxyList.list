@@ -16,7 +16,7 @@ DOMAIN,github.com
 DOMAIN,lscr.io
 DOMAIN,ghcr.io
 DOMAIN,giffgaff.com
-IP-CIDR,43.134.11.166
+# IP-CIDR,43.134.11.166
 
 
 ##- PROCESS-NAME,curl,DIRECT #匹配路由自身进程(curl直连)
