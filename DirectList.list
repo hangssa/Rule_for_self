@@ -7,8 +7,8 @@ DOMAIN-KEYWORD,speedtest
 DOMAIN-SUFFIX,cyp0633.icu
 DOMAIN,cn.archive.ubuntu.com
 
-
 PROCESS-NAME,tailscaled
+PROCESS-NAME,zerotier-one
 
 ##- SCRIPT,quic,REJECT #shortcuts rule
 ##- SCRIPT,time-limit,REJECT #shortcuts rule
