@@ -6,6 +6,9 @@ DOMAIN,bgp.he.net
 DOMAIN-KEYWORD,speedtest
 DOMAIN-SUFFIX,cyp0633.icu
 DOMAIN,cn.archive.ubuntu.com
+DOMAIN,tailscale.com
+DOMAIN,tailscale.io
+
 
 PROCESS-NAME,tailscaled
 PROCESS-NAME,tailscale
