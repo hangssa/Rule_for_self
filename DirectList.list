@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,cyp0633.icu
 DOMAIN,cn.archive.ubuntu.com
 
 PROCESS-NAME,tailscaled
+PROCESS-NAME,tailscale
 PROCESS-NAME,zerotier-one
 
 ##- SCRIPT,quic,REJECT #shortcuts rule
