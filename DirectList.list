@@ -8,7 +8,7 @@ DOMAIN-SUFFIX,cyp0633.icu
 DOMAIN,cn.archive.ubuntu.com
 DOMAIN,tailscale.com
 DOMAIN,tailscale.io
-
+DOMAIN,adroot.cc
 
 PROCESS-NAME,tailscaled
 PROCESS-NAME,tailscale
