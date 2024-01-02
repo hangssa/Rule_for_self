@@ -13,6 +13,7 @@ DOMAIN,adroot.cc
 PROCESS-NAME,tailscaled
 PROCESS-NAME,tailscale
 PROCESS-NAME,zerotier-one
+PROCESS-NAME,cloudflared
 
 ##- SCRIPT,quic,REJECT #shortcuts rule
 ##- SCRIPT,time-limit,REJECT #shortcuts rule
