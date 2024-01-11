@@ -17,6 +17,8 @@ DOMAIN,lscr.io
 DOMAIN,ghcr.io
 DOMAIN,giffgaff.com
 DOMAIN,openwrt.ai
+DOMAIN-KEYWORD,github
+#匹配域名关键字(交由Proxy代理服务器组)
 # IP-CIDR,43.134.11.166
 
 
