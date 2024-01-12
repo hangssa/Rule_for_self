@@ -1,12 +1,13 @@
 # 内容：自定义代理列表
 # 数量：条
-DOMAIN,thetvdb.com
-DOMAIN,api.themoviedb.org
-DOMAIN,assets.fanart.tv
 DOMAIN-KEYWORD,themoviedb
 DOMAIN-KEYWORD,v2ex
-DOMAIN,repo.jellyfin.org
-DOMAIN,op.supes.top
+DOMAIN-KEYWORD,github
+DOMAIN,thetvdb.com
+DOMAIN,themoviedb.org
+DOMAIN,fanart.tv
+DOMAIN,jellyfin.org
+DOMAIN,supes.top
 DOMAIN,coinbase.com
 DOMAIN,bitnodes.io
 DOMAIN,op.supes.top
@@ -17,7 +18,8 @@ DOMAIN,lscr.io
 DOMAIN,ghcr.io
 DOMAIN,giffgaff.com
 DOMAIN,openwrt.ai
-DOMAIN-KEYWORD,github
+DOMAIN,openwrt.ai
+DOMAIN,cloudflare.com
 #匹配域名关键字(交由Proxy代理服务器组)
 # IP-CIDR,43.134.11.166
 
