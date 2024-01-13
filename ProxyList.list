@@ -20,6 +20,7 @@ DOMAIN,giffgaff.com
 DOMAIN,openwrt.ai
 DOMAIN,openwrt.ai
 DOMAIN,cloudflare.com
+DOMAIN,javmost.com
 #匹配域名关键字(交由Proxy代理服务器组)
 # IP-CIDR,43.134.11.166
 
