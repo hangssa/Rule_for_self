@@ -1,8 +1,8 @@
 # 内容：自定义代理列表
 # 数量：条
 DOMAIN-KEYWORD,themoviedb
-DOMAIN-KEYWORD,v2ex
-DOMAIN-KEYWORD,github
+# DOMAIN-KEYWORD,v2ex
+# DOMAIN-KEYWORD,github
 DOMAIN,thetvdb.com
 DOMAIN,themoviedb.org
 DOMAIN,fanart.tv
@@ -12,8 +12,8 @@ DOMAIN,coinbase.com
 DOMAIN,bitnodes.io
 DOMAIN,op.supes.top
 DOMAIN,docker.io
-DOMAIN,docker.com
-DOMAIN,github.com
+# DOMAIN,docker.com
+# DOMAIN,github.com
 DOMAIN,lscr.io
 DOMAIN,ghcr.io
 DOMAIN,giffgaff.com
