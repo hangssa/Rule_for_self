@@ -9,6 +9,9 @@ DOMAIN,cn.archive.ubuntu.com
 DOMAIN,tailscale.com
 DOMAIN,tailscale.io
 DOMAIN,adroot.cc
+DOMAIN,v2.argotunnel.com
+DOMAIN,argotunnel.com
+DOMAIN-KEYWORD,argotunnel
 
 PROCESS-NAME,tailscaled
 PROCESS-NAME,tailscale
