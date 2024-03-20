@@ -1,16 +1,16 @@
 # 内容：自定义代理列表
 # 数量：条
-DOMAIN,controlplane.tailscale.com,DIRECT
-DOMAIN-SUFFIX,d2l.ai,DIRECT
-DOMAIN,bgp.he.net,DIRECT
-DOMAIN-KEYWORD,speedtest,DIRECT
-DOMAIN-SUFFIX,cyp0633.icu,DIRECT
-DOMAIN,cn.archive.ubuntu.com,DIRECT
-DOMAIN-SUFFIX,tailscale.com,DIRECT
-DOMAIN-SUFFIX,tailscale.io,DIRECT
-DOMAIN-SUFFIX,adroot.cc,DIRECT
-DOMAIN-SUFFIX,argotunnel.com,DIRECT
-DOMAIN-KEYWORD,argotunnel,DIRECT
+DOMAIN,controlplane.tailscale.com
+DOMAIN-SUFFIX,d2l.ai
+DOMAIN,bgp.he.net
+DOMAIN-KEYWORD,speedtest
+DOMAIN-SUFFIX,cyp0633.icu
+DOMAIN,cn.archive.ubuntu.com
+DOMAIN-SUFFIX,tailscale.com
+DOMAIN-SUFFIX,tailscale.io
+DOMAIN-SUFFIX,adroot.cc
+DOMAIN-SUFFIX,argotunnel.com
+DOMAIN-KEYWORD,argotunnel
 
 PROCESS-NAME,tailscaled,DIRECT
 PROCESS-NAME,tailscale,DIRECT
