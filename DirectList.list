@@ -12,6 +12,7 @@ DOMAIN,adroot.cc
 DOMAIN,v2.argotunnel.com
 DOMAIN,argotunnel.com
 DOMAIN-KEYWORD,argotunnel
+DOMAIN-KEYWORD,adroot
 
 PROCESS-NAME,tailscaled
 PROCESS-NAME,tailscale
