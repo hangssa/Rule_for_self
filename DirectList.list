@@ -1,15 +1,15 @@
 # 内容：自定义代理列表
 # 数量：条
 DOMAIN,controlplane.tailscale.com
-DOMAIN-SUFFIX,d2l.ai
-DOMAIN,bgp.he.net
-DOMAIN-KEYWORD,speedtest
-DOMAIN-SUFFIX,cyp0633.icu
 DOMAIN,cn.archive.ubuntu.com
+DOMAIN,bgp.he.net
+DOMAIN-SUFFIX,d2l.ai
+DOMAIN-SUFFIX,cyp0633.icu
 DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,tailscale.io
 DOMAIN-SUFFIX,adroot.cc
 DOMAIN-SUFFIX,argotunnel.com
+DOMAIN-KEYWORD,speedtest
 
 PROCESS-NAME,tailscaled,DIRECT
 PROCESS-NAME,tailscale,DIRECT
