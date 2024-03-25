@@ -10,7 +10,6 @@ DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,tailscale.io
 DOMAIN-SUFFIX,adroot.cc
 DOMAIN-SUFFIX,argotunnel.com
-DOMAIN-KEYWORD,argotunnel
 
 PROCESS-NAME,tailscaled,DIRECT
 PROCESS-NAME,tailscale,DIRECT
