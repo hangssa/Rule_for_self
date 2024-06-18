@@ -14,7 +14,7 @@ DOMAIN-KEYWORD,speedtest
 PROCESS-NAME,tailscaled,DIRECT
 PROCESS-NAME,tailscale,DIRECT
 PROCESS-NAME,zerotier-one,DIRECT
-PROCESS-NAME,cloudflared,DIRECT
+## PROCESS-NAME,cloudflared,DIRECT
 IP-CIDR,159.138.145.227/32,DIRECT
 
 ##- SCRIPT,quic,REJECT #shortcuts rule
