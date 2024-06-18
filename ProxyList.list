@@ -1,5 +1,7 @@
 # 内容：自定义代理列表
 # 数量：条
+DOMAIN-SUFFIX,argotunnel.com
+DOMAIN,argotunnel.com
 DOMAIN,dl.tailscale.com
 DOMAIN-KEYWORD,themoviedb
 # DOMAIN-KEYWORD,v2ex
@@ -18,7 +20,6 @@ DOMAIN-SUFFIX,ghcr.io
 DOMAIN-SUFFIX,giffgaff.com
 DOMAIN-SUFFIX,openwrt.ai
 DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,argotunnel.com
 DOMAIN-SUFFIX,javmost.com
 DOMAIN-SUFFIX,plex.tv
 #匹配域名关键字(交由Proxy代理服务器组)
