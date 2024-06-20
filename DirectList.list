@@ -8,7 +8,7 @@ DOMAIN-SUFFIX,cyp0633.icu
 DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,tailscale.io
 DOMAIN-SUFFIX,adroot.cc
-## DOMAIN-SUFFIX,argotunnel.com
+DOMAIN-SUFFIX,argotunnel.com
 DOMAIN-KEYWORD,speedtest
 
 PROCESS-NAME,tailscaled,DIRECT
