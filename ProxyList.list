@@ -1,7 +1,7 @@
 # 内容：自定义代理列表
 # 数量：条
-DOMAIN-SUFFIX,argotunnel.com
-DOMAIN,argotunnel.com
+## DOMAIN-SUFFIX,argotunnel.com
+## DOMAIN,argotunnel.com
 DOMAIN,dl.tailscale.com
 DOMAIN-KEYWORD,themoviedb
 # DOMAIN-KEYWORD,v2ex
