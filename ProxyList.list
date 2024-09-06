@@ -22,6 +22,8 @@ DOMAIN-SUFFIX,openwrt.ai
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,javmost.com
 DOMAIN-SUFFIX,plex.tv
+DOMAIN-SUFFIX,oaiusercontent.com
+
 #匹配域名关键字(交由Proxy代理服务器组)
 # IP-CIDR,43.134.11.166
 
